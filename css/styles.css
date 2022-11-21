@@ -617,11 +617,9 @@ background-color: var(--accent-color);
 
 .work-card {
   margin-bottom: 0;
-}
-
-a {
   display: block;
 }
+
 
 img {
   max-width: 100%;
